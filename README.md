@@ -36,6 +36,7 @@ This repository serves as a technical portfolio showcasing analytical methods an
 
 ## Repository Structure
 
+```text
 data-science-portfolio
 │
 ├── projects
@@ -52,3 +53,4 @@ data-science-portfolio
 ├── environment.yml
 ├── requirements.txt
 └── README.md
+```
