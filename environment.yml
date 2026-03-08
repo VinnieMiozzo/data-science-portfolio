@@ -1,0 +1,39 @@
+name: data-science-portfolio
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+
+  # Core scientific stack
+  - numpy
+  - pandas
+  - scipy
+
+  # Machine learning
+  - scikit-learn
+  - statsmodels
+
+  # Visualization
+  - matplotlib
+  - seaborn
+
+  # Network analysis
+  - networkx
+
+  # Notebooks
+  - jupyterlab
+  - notebook
+  - ipykernel
+
+  # Utilities
+  - tqdm
+  - requests
+
+  # Optional but useful
+  - pip
+
+  - pip:
+      - umap-learn
