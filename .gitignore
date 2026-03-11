@@ -209,3 +209,5 @@ __marimo__/
 login.txt
 Miniconda3-latest-Linux-x86_64.sh
 test_google_connection.py
+
+data/
